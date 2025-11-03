@@ -19,23 +19,23 @@ export default function Home() {
             />
           </div>
           <div className="flex-1">
-            <p className="mb-1 text-base text-[#000000]">Hi,</p>
-            <p className="mb-3 max-w-2xl text-[15px] leading-7 text-[#000000]">
+            <p className="mb-1 text-base text-[#000000] font-bold">Hi,</p>
+            <p className="mb-3 max-w-2xl text-[15px] leading-7 text-[#000000] font-bold">
               I’m Farish – An Full Stack Engineer | Backend Developer | AI Enthusiast | Node.js | Javascript | Typescript | MongoDB.
             </p>
             <div className="flex flex-wrap items-center gap-2 text-sm">
-              <a href="https://www.linkedin.com/in/farish-jamal/" className="text-[#70b0ff] hover:opacity-80">LinkedIn</a>
-              <span className="text-[#3a3a3a]">•</span>
-              <a href="https://leetcode.com/u/shutupfarish/" className="text-[#70b0ff] hover:opacity-80">LeetCode</a>
-              <span className="text-[#3a3a3a]">•</span>
-              <a href="https://github.com/farish-jamal" className="text-[#70b0ff] hover:opacity-80">GitHub</a>
-              <span className="text-[#3a3a3a]">•</span>
-              <a href="https://x.com/shutupfarish" className="text-[#70b0ff] hover:opacity-80">Twitter</a>
+              <a href="https://www.linkedin.com/in/farish-jamal/" className="text-[#d7d7d5] hover:opacity-80">LinkedIn</a>
+              <span className="text-[#d7d7d5]">•</span>
+              <a href="https://leetcode.com/u/shutupfarish/" className="text-[#d7d7d5] hover:opacity-80">LeetCode</a>
+              <span className="text-[#d7d7d5]">•</span>
+              <a href="https://github.com/farish-jamal" className="text-[#d7d7d5] hover:opacity-80">GitHub</a>
+              <span className="text-[#d7d7d5]">•</span>
+              <a href="https://x.com/shutupfarish" className="text-[#d7d7d5] hover:opacity-80">Twitter</a>
             </div>
           </div>
         </div>
 
-        <div className="my-5 border-t border-[#2a2a2a]" />
+        {/* <div className="my-5 border-t border-[#2a2a2a]" /> */}
 
         <section className="mb-8">
           <h2 className="mb-2 text-lg font-semibold">About</h2>
